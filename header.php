@@ -5,6 +5,7 @@
 		'/form-decode.php' => array('name' => 'Form Decode', 'active' => false),
 		'/form-encode.php' => array('name' => 'Form Encode', 'active' => false),
 		'/url-en-decode.php' => array('name' => 'URL En/Decode', 'active' => false),
+		'/dns-dig.php' => array('name' => 'DNS dig', 'active' => false),
 	);
 	
 	if ($_SERVER['PHP_SELF'] !== '/index.php') {
